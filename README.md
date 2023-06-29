@@ -4,7 +4,7 @@ This is a plugin for [PowerToys Run](https://github.com/microsoft/PowerToys/wiki
 
 ## Demo
 
-@TODO
+https://github.com/GageSorrell/PowertoysNotionTasks/assets/33264760/08a610fc-507c-4d05-ae71-d59df5ddafec
 
 ## Features
 
