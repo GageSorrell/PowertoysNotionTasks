@@ -1,0 +1,13 @@
+{
+  "ID": "F610069185EA4BA5AD97BE1DC4C171AE",
+  "ActionKeyword": "",
+  "IsGlobal": true,
+  "Name": "NotionTask",
+  "Author": "GageSorrell",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/GageSorrell/PowerToysRunPluginNotionTask",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.NotionTask.dll",
+  "IcoPathDark": "Images\\NotionTask.dark.png",
+  "IcoPathLight": "Images\\NotionTask.light.png"
+}
